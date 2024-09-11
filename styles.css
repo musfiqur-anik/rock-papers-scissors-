@@ -1,0 +1,23 @@
+.sec {
+    width: 100%;
+    padding: auto;
+    text-align: center;
+    margin:  30px;
+    margin-top: 20%;
+}
+
+button {
+    margin: 20px;
+    padding: 7px;
+}
+
+.submit {
+    margin-left: 40px;
+}
+
+.divs {
+    width: 100%;
+    text-align: center;
+    margin-top: -10px;
+    
+}
